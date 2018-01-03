@@ -1,0 +1,23 @@
+Starting load Test
+log4j:WARN No appenders could be found for logger (com.microsoft.azure.documentdb.DocumentClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Created thread pool size 2
+Created connection
+Started simple proxy
+running Put load req 10 concurrency 1
+Summary PUT reqSize10 concurrency1 failed count 0
+running Get load req 10 concurrency 1
+running Put load req 10 concurrency 1
+OD25541920168000551054542824369812
+OD28621920168000551054522188166812
+OD28621920168000551054522188166812
+OD23631920168000551054519802858812
+OD25541920168000551054542824369812
+OD25631920168000551054530345151812
+OD25631920168000551054530345151812
+OD22861920168000551054527889584812
+OD28621920168000551054522188166812
+Summary PUT reqSize10 concurrency1 failed count 0
+Summary GET reqSize10 concurrency1 failed count 0
+Shutting down test
